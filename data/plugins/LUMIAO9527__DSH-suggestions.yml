@@ -2,6 +2,6 @@ url: https://github.com/LUMIAO9527/DSH-suggestions
 name: LUMIAO9527/DSH-suggestions
 category: ui
 description:
-  en: 'Follow-up prompt suggestions and draft optimization in the DeepSeek Harness composer, with suggestion browsing and companion MCP tools.'
-  zh: '为 DeepSeek Harness 输入框提供后续提示词建议与草稿优化，可翻看多条建议，并提供配套 MCP 工具。'
+  en: 'Context-based next-message suggestions and draft rewriting for DeepSeek Harness, with candidate paging, shortcut recording, and companion MCP tools.'
+  zh: '根据会话生成下一条消息建议并优化草稿，支持候选翻页、快捷键录制和配套 MCP 工具。'
 tarball: https://github.com/LUMIAO9527/DSH-suggestions/releases/latest/download/dsh-suggestions.tgz
